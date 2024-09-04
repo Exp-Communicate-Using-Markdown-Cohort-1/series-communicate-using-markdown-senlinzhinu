@@ -12,3 +12,7 @@ content
 ```c++
 cout << "Hello World!!!" << endl;
 ```
+
+### a task list
+- [ ] a new task
+- [x] a finished task
